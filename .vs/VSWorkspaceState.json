@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_includes"
+    "\\_includes",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\_includes\\header.html",
+  "SelectedNode": "\\_layouts\\front.html",
   "PreviewInSolutionExplorer": false
 }
