@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    "\\css",
+    "",
+    "\\_includes",
     "\\_layouts"
   ],
+  "SelectedNode": "\\_includes\\call-to-action.html",
   "PreviewInSolutionExplorer": false
 }
