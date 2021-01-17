@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\css",
+    "\\img",
+    "\\img\\portfolio",
+    "\\_includes",
     "\\_layouts"
   ],
-  "SelectedNode": "\\_layouts\\front.html",
+  "SelectedNode": "\\_includes\\services.html",
   "PreviewInSolutionExplorer": false
 }
