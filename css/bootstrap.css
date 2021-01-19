@@ -114,9 +114,9 @@ input,
 optgroup,
 select,
 textarea {
-    margin: 0;
-    font: inherit;
-    color: #61C9D4; /* CHANGEDTHIS */
+  margin: 0;
+  font: inherit;
+  color: #61C9D4; /* CHANGED THIS*/
 }
 button {
   overflow: visible;
@@ -193,7 +193,8 @@ th {
     *,
     *:before,
     *:after {
-        color: #61C9D4 !important;
+        color: #61C9D4 /* CHANGED THIS*/
+        !important;
         text-shadow: none !important;
         background: transparent !important;
         -webkit-box-shadow: none !important;
@@ -245,10 +246,11 @@ th {
   .navbar {
     display: none;
   }
-  .btn > .caret,
-  .dropup > .btn > .caret {
-    border-top-color: #61C9D4 !important;
-  }
+    .btn > .caret,
+    .dropup > .btn > .caret {
+        border-top-color: #61C9D4 /* CHANGED THIS*/
+        !important;
+    }
   .label {
     border: 1px solid #000;
   }
@@ -257,7 +259,8 @@ th {
   }
     .table td,
     .table th {
-        background-color: #61C9D4 !important;
+        background-color: #61C9D4 /* CHANGED THIS*/
+        !important;
     }
   .table-bordered th,
   .table-bordered td {
@@ -1077,8 +1080,8 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 1.42857143;
-    color: #61C9D4;
-    background-color: #61C9D4;
+    color: #61C9D4; /* CHANGED THIS*/
+    background-color: #61C9D4; /* CHANGED THIS*/
 }
 input,
 button,
