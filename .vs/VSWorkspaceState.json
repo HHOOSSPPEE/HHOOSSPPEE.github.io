@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets\\img",
     "\\css",
-    "\\img",
-    "\\img\\portfolio",
-    "\\_includes",
-    "\\_layouts"
+    "\\js"
   ],
-  "SelectedNode": "\\_includes\\services.html",
+  "SelectedNode": "\\css\\styles.css",
   "PreviewInSolutionExplorer": false
 }
