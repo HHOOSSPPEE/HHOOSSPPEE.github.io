@@ -9999,7 +9999,7 @@ hr.light {
 .btn {
     /*font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";*/
     font-family: 'Adlanta', Arial, sans-serif;
-    font-weight: 700;
+    font-weight: bolder;
     font-style: normal;
 }
 
@@ -10102,7 +10102,8 @@ header.masthead h1 {
     padding-bottom: 0;
   }
   header.masthead p {
-    font-size: 1.15rem;
+      font-size: 2.15rem;
+      font-weight: bold;
   }
   header.masthead h1 {
     font-size: 3rem;
