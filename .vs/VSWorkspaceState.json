@@ -3,11 +3,10 @@
     "",
     "\\assets",
     "\\assets\\img",
-    "\\assets\\img\\portfolio",
-    "\\assets\\img\\portfolio\\thumbnails",
+    "\\assets\\img\\icons",
     "\\css",
     "\\js"
   ],
-  "SelectedNode": "\\assets\\img\\portfolio\\thumbnails\\SP_PlaceholderYellow.png",
+  "SelectedNode": "\\assets\\img\\icons\\engines_unity.png",
   "PreviewInSolutionExplorer": false
 }
